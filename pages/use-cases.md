@@ -13,8 +13,16 @@ title: use cases
             <ul>
                 <li v-click><b>Armin Ronacher:</b> ask claude-cli to fix an issue in minijinja <a href="https://github.com/mitsuhiko/minijinja/pull/804" target="_blank">PR</a></li>
                 <li v-click><b>ThePrimeagen:</b> build a game in 7 days, using cursor 😩<a href="https://www.youtube.com/watch?v=5qwucCaHpWY" target="_blank">video</a></li>
+                <li v-click><b>Code review:</b> Get a summary of a PR and ask for feedback</li>
             </ul>
         </div>
-        <img src="./images/vibe-coding.png" class="object-scale-down h-80" />
+        <div>
+            <a href="./pages/videos/review.mp4" target="_blank">
+                <img src="./images/review.gif" />
+            </a>
+            <a href="https://youtu.be/FP8s-Y_zFV0" target="_blank" class="mt-8 text-xs">
+                youtube
+            </a>
+        </div>
     </div>
 </div>
