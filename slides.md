@@ -1,11 +1,11 @@
 ---
-theme: seriph
+theme: excali-slide
 background: https://cover.sli.dev
 title: Vibe Coding - No Code of the AI Era
 info: |
   ## Vibe Coding - No Code of the AI Era
   A presentation about the new paradigm of AI-assisted development.
-  
+
   Burda.Product.Tech 2025
 class: text-center
 drawings:
@@ -270,13 +270,13 @@ Slidev comes with powerful theming support. Themes can provide styles, layouts, 
 
 ```yaml
 ---
-theme: default
+theme: excali-slide
 ---
 ```
 
 ```yaml
 ---
-theme: seriph
+theme: excali-slide
 ---
 ```
 
