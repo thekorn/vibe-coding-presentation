@@ -128,13 +128,12 @@ pnpm format
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-*This presentation is a living example of "vibe coding" - created through the collaboration of human creativity and AI assistance.*
-
-
 ## 🎥 Play all videos
 
 ```
 mpv --playlist=videos-playlist.m3u --fullscreen
 ```
+
+---
+
+*This presentation is a living example of "vibe coding" - created through the collaboration of human creativity and AI assistance.*
