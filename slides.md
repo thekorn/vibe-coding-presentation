@@ -26,6 +26,9 @@ src: ./pages/idea.md
 ---
 src: ./pages/weekend.md
 ---
+---
+src: ./pages/use-cases.md
+---
 
 
 
