@@ -1,0 +1,25 @@
+{
+  "name": "vibe-coding-presentation",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write ."
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.8.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.16"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.4",
+    "install": "^0.13.0",
+    "lefthook": "^1.11.14",
+    "playwright-chromium": "^1.53.1"
+  }
+}
