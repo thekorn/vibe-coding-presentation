@@ -63,7 +63,7 @@ title: idea - what it is!
             </ul>
             <h3>Just chat!</h3>
             <i>
-                <blockquote>create tests for the Counter.vue component in components/ folder</blockquote>
+                <blockquote>create tests for the Counter.vue component in components/ folder, remove existing tests for that component first, ignore the entire examples/ folder. once done, lint the code.</blockquote>
             </i>
         </div>
         <div>
