@@ -12,6 +12,7 @@ browserExporter: false
 download: false
 monaco: false
 selectable: true
+exportFilename: markus-korn-vibe-coding
 fonts:
   sans: Roboto
   serif: Roboto Slab

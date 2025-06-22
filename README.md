@@ -2,7 +2,7 @@
 
 A presentation about the new paradigm of AI-assisted development, exploring how tools like **opencode** and **Claude 4** are transforming the way we build software.
 
-> "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."  
+> "There's a new kind of coding I call 'vibe coding', where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 > — **Andrej Karpathy** (February 2025)
 
 ## 🎯 About This Presentation
@@ -131,3 +131,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *This presentation is a living example of "vibe coding" - created through the collaboration of human creativity and AI assistance.*
+
+
+## 🎥 Play all videos
+
+```
+mpv --playlist=videos-playlist.m3u --fullscreen
+```
