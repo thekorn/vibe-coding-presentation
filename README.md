@@ -51,6 +51,27 @@ pnpm build
 pnpm export
 ```
 
+### Development Tools
+
+The project includes modern development tooling:
+
+```bash
+# Run tests
+pnpm test
+
+# Run tests once
+pnpm test:run
+
+# Lint code
+pnpm lint
+
+# Fix linting issues
+pnpm lint:fix
+
+# Format code
+pnpm format
+```
+
 ## 📁 Project Structure
 
 ```
@@ -58,13 +79,20 @@ pnpm export
 ├── pages/                 # Individual slide pages
 │   ├── cover.md           # Title slide
 │   ├── intro.md           # Introduction with Karpathy quote
-│   └── outro.md           # Credits and source information
+│   ├── idea.md            # Core concept slides
+│   ├── use-cases.md       # Practical applications
+│   ├── weekend.md         # Weekend project showcase
+│   ├── outro.md           # Credits and source information
+│   ├── images/            # Presentation images and screenshots
+│   └── videos/            # Demo videos and recordings
 ├── theme/excali/          # Custom Slidev theme
 │   ├── layouts/           # Custom slide layouts
 │   ├── components/        # Vue components
 │   └── styles/            # Theme styling
-├── components/            # Reusable Vue components
-└── snippets/              # Code examples
+├── components/            # Reusable Vue components with tests
+├── examples/              # Live coding examples
+│   └── tic-tac-toe/       # Complete React Tic-Tac-Toe implementation
+└── snippets/              # Code examples and utilities
 ```
 
 ## 🎨 Features
@@ -72,6 +100,10 @@ pnpm export
 - **Custom Theme:** Hand-crafted excali theme with brand colors
 - **Modular Structure:** Slides organized in separate files for maintainability
 - **Interactive Elements:** Live code examples and animations
+- **Live Demos:** Complete working examples (Tic-Tac-Toe game)
+- **Rich Media:** Embedded videos and screenshots showcasing AI development
+- **Test Coverage:** Components and utilities with comprehensive tests
+- **Modern Tooling:** Biome for linting/formatting, Vitest for testing
 - **Responsive Design:** Works on desktop and mobile devices
 
 ## 🛠 Built With
@@ -80,6 +112,9 @@ pnpm export
 - [Vue 3](https://vuejs.org/) - Progressive JavaScript framework
 - [UnoCSS](https://unocss.dev/) - Instant on-demand atomic CSS engine
 - [Shiki](https://shiki.style/) - Syntax highlighter
+- [Vitest](https://vitest.dev/) - Fast unit testing framework
+- [Biome](https://biomejs.dev/) - Fast formatter and linter
+- [Playwright](https://playwright.dev/) - End-to-end testing
 - **[opencode](https://opencode.ai)** - AI-powered development assistant
 - **Claude 4** - Advanced AI language model
 
