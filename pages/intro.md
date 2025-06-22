@@ -10,8 +10,10 @@ mdc: true
     <Tweet id="1886192184808149383"/>
 </div>
 
-[x.com - @karpathy](https://x.com/karpathy/status/1886192184808149383)
 
+<blockquote class="mt-4 text-sm opacity-75 !border-red">
+    <a href="https://x.com/karpathy/status/1886192184808149383" target="_blank">x.com - @karpathy</a>
+</blockquote>
 
 <!--
 Andrej Karpathy:

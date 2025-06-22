@@ -1,11 +1,11 @@
 # Agent Guidelines for Tic-Tac-Toe SolidJS Project
 
 ## Build/Test Commands
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run test` - Run all tests with Vitest
-- `npm run test:ui` - Run tests with UI interface
-- Run single test: `npm run test -- src/components/__tests__/TicTacToe.test.tsx`
+- `pnpm dev` - Start development server
+- `pnpm build` - Build for production
+- `pnpm test` - Run all tests with Vitest
+- `pnpm test:ui` - Run tests with UI interface
+- Run single test: `pnpm test -- src/components/__tests__/TicTacToe.test.tsx`
 
 ## Code Style & Conventions
 - **Framework**: SolidJS with TypeScript, Vite, TailwindCSS

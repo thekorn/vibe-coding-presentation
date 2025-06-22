@@ -8,11 +8,12 @@ title: use cases
 
 
 <div class="flex flex-col gap-10">
-    <div class="grid grid-cols-[60%_40%] gap-4">
+    <div class="grid grid-cols-2 gap-4">
         <div class="flex gap-4 flex-col">
             <ul>
-                <li v-click><b>Armin Ronacher:</b> ask claude-cli to fix an issue in minijinja <a href="https://github.com/mitsuhiko/minijinja/pull/804" target="_blank">PR</a></li>
-                <li v-click><b>ThePrimeagen:</b> build a game in 7 days, using cursor 😩<a href="https://www.youtube.com/watch?v=5qwucCaHpWY" target="_blank">video</a></li>
+                <li><b>Armin Ronacher:</b> ask claude code to fix an issue in minijinja <a href="https://github.com/mitsuhiko/minijinja/pull/804" target="_blank">[Pull Request]</a></li>
+                <li v-click><b>Armin Ronacher:</b> implement sentry clone in a weekend <a href="https://www.youtube.com/watch?v=oodxg0qatX0" target="_blank">[Video]</a></li>
+                <li v-click><b>ThePrimeagen:</b> build a game in 7 days, using cursor 😩 <a href="https://www.youtube.com/watch?v=5qwucCaHpWY" target="_blank">[Video]</a></li>
                 <li v-click><b>Code review:</b> Get a summary of a PR and ask for feedback</li>
             </ul>
         </div>

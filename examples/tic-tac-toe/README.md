@@ -25,21 +25,21 @@ A modern tic-tac-toe game built with SolidJS, TypeScript, and TailwindCSS.
 ### Prerequisites
 
 - Node.js (version 16 or higher)
-- npm or yarn
+- pnpm
 
 ### Installation
 
 1. Clone the repository
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 
 ### Development
 
 Start the development server:
 ```bash
-npm run dev
+pnpm dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) to view the game in your browser.
@@ -48,29 +48,29 @@ Open [http://localhost:5173](http://localhost:5173) to view the game in your bro
 
 Build for production:
 ```bash
-npm run build
+pnpm build
 ```
 
 Preview the production build:
 ```bash
-npm run preview
+pnpm preview
 ```
 
 ### Testing
 
 Run all tests:
 ```bash
-npm run test
+pnpm test
 ```
 
 Run tests with UI:
 ```bash
-npm run test:ui
+pnpm test:ui
 ```
 
 Run a specific test file:
 ```bash
-npm run test -- src/components/__tests__/TicTacToe.test.tsx
+pnpm test -- src/components/__tests__/TicTacToe.test.tsx
 ```
 
 ## Project Structure

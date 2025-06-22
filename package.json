@@ -6,10 +6,8 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "test": "vitest",
-    "test:run": "vitest run",
-    "lint": "biome check .",
-    "lint:fix": "biome check --write .",
+    "test": "vitest run",
+    "lint": "biome check --write .",
     "format": "biome format --write ."
   },
   "dependencies": {

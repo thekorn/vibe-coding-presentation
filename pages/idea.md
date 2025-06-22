@@ -43,7 +43,7 @@ title: idea - what it is not!
     </div>
 
   <blockquote class="mt-8 text-sm opacity-75 !border-red">
-      <em>Editors/IDEs like VSCode or Cursor are not the best tools for vibe coding</em>
+      <em>Editors/IDEs like <b>VSCode</b> or <b>Cursor</b> are not the best tools for vibe coding</em>
   </blockquote>
 </div>
 
@@ -82,7 +82,7 @@ title: idea - what it is!
     </div>
     <blockquote class="mt-8 text-sm opacity-75 !border-red">
         <em>
-            Tools like claude-cli or opencode are hiding the code, they are perfect for vibe coding
+            Tools like <b>claude code</b> or <b>opencode</b> are hiding the code, they are perfect for vibe coding
         </em>
     </blockquote>
 </div>

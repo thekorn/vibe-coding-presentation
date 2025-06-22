@@ -13,6 +13,7 @@ download: false
 monaco: false
 selectable: true
 exportFilename: markus-korn-vibe-coding
+favicon: https://www.burda-forward.de/_frontend/burdaforward/favicon/favicon.ico
 fonts:
   sans: Roboto
   serif: Roboto Slab

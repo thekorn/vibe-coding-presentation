@@ -20,6 +20,6 @@ Check out the complete source at:
 </div>
 </div>
 
-<div class="mt-8 text-sm opacity-75">
-  <em>This is what "vibe coding" looks like in practice!</em>
-</div>
+<blockquote class="mt-8 text-sm opacity-75 !border-red">
+    <em>This is what "vibe coding" looks like in practice!</em>
+</blockquote>

@@ -57,6 +57,7 @@ const TicTacToe = () => {
               onClick={() => handleCellClick(index())}
               disabled={!!cell || !!winner() || gameOver()}
               data-testid={`cell-${index()}`}
+              type="button"
             >
               {cell}
             </button>
@@ -67,6 +68,7 @@ const TicTacToe = () => {
       <button
         class="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-semibold"
         onClick={resetGame}
+        type="button"
       >
         Reset Game
       </button>
