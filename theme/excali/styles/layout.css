@@ -10,6 +10,16 @@
   --slidev-theme-marker-animation: enabled;
 }
 
+h1,
+h2 {
+  position: relative;
+  display: inline-block;
+}
+
+h2 {
+  margin-left: 10px;
+}
+
 .light #slide-content {
   background-color: #f5faff;
   color: #1e1e1e;
@@ -18,6 +28,11 @@
 .dark #slide-content {
   background-color: #13171b;
   color: #d3d3d3;
+}
+
+.dark h1,
+.dark h2 {
+  color: #fff !important;
 }
 
 .slidev-layout.cover,
@@ -37,21 +52,6 @@
   table + h2 {
     @apply mt-10;
   }
-}
-
-h1,
-h2 {
-  position: relative;
-  display: inline-block;
-}
-
-h2 {
-  margin-left: 10px;
-}
-
-.dark h1,
-.dark h2 {
-  color: #fff !important;
 }
 
 h1:before,

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Highlight from '../components/Highlight.vue';
+
 </script>
 
 <template>
