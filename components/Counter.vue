@@ -18,18 +18,18 @@ const _counter = ref(props.count);
       font="mono"
       outline="!none"
       hover:bg="gray-400 opacity-20"
-      @click="counter -= 1"
+      @click="_counter -= 1"
     >
       -
     </button>
-    <span m="auto" p="2">{{ counter }}</span>
+    <span m="auto" p="2">{{ _counter }}</span>
     <button
       border="l main"
       p="2"
       font="mono"
       outline="!none"
       hover:bg="gray-400 opacity-20"
-      @click="counter += 1"
+      @click="_counter += 1"
     >
       +
     </button>

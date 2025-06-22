@@ -1,7 +1,6 @@
 ---
 layout: default
 title: One more thing...
-image: /images/opencode.png
 ---
 
 # One more thing...

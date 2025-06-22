@@ -4,8 +4,7 @@ layout: default
 mdc: true
 ---
 
-# Intro
-## It all started with a big bang
+# It all started with a big bang
 
 <div class="flex items-center justify-center ">
     <Tweet id="1886192184808149383"/>

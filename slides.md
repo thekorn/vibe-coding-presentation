@@ -5,10 +5,28 @@ themeConfig:
   secondary-highlight: "#F19225"
   marker-animation: disabled
 src: ./pages/cover.md
+titleTemplate: '%s - Markus Korn'
+author: Markus Korn
+keywords: vibe-coding,burda,burda.product.tech
+browserExporter: false
+download: false
+monaco: false
+fonts:
+  sans: Roboto
+  serif: Roboto Slab
+  mono: Fira Code
 ---
 ---
 src: ./pages/intro.md
 ---
+---
+src: ./pages/idea.md
+---
+
+
+
+
+
 ---
 src: ./pages/outro.md
 ---
