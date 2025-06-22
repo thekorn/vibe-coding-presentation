@@ -6,6 +6,8 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
+    "test": "vitest",
+    "test:run": "vitest run",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "format": "biome format --write ."
@@ -19,8 +21,12 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.0.4",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vue/test-utils": "^2.4.6",
     "install": "^0.13.0",
+    "jsdom": "^26.1.0",
     "lefthook": "^1.11.14",
-    "playwright-chromium": "^1.53.1"
+    "playwright-chromium": "^1.53.1",
+    "vitest": "^3.2.4"
   }
 }

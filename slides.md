@@ -11,6 +11,7 @@ keywords: vibe-coding,burda,burda.product.tech
 browserExporter: false
 download: false
 monaco: false
+selectable: true
 fonts:
   sans: Roboto
   serif: Roboto Slab
