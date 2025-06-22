@@ -12,14 +12,4 @@ export default defineConfig({
       ],
     }),
   ],
-  build: {
-    chunkSizeWarningLimit: 4000,
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['monaco-editor'],
-        },
-      },
-    },
-  },
 });
