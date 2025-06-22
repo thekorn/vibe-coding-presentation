@@ -11,11 +11,12 @@ mdc: true
     <Tweet id="1886192184808149383"/>
 </div>
 
+[x.com - @karpathy](https://x.com/karpathy/status/1886192184808149383)
+
+
 <!--
 Andrej Karpathy:
  - founding member of OpenAI
  - has been with Tesla AI
  - amazing youtube streams on building LLM
 -->
-
-[x.com - @karpathy](https://x.com/karpathy/status/1886192184808149383)

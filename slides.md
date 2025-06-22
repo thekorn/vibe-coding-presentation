@@ -9,3 +9,6 @@ src: ./pages/cover.md
 ---
 src: ./pages/intro.md
 ---
+---
+src: ./pages/outro.md
+---
