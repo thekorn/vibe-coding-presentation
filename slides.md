@@ -23,6 +23,9 @@ src: ./pages/intro.md
 ---
 src: ./pages/idea.md
 ---
+---
+src: ./pages/weekend.md
+---
 
 
 
