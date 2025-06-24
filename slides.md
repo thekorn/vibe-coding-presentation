@@ -39,3 +39,6 @@ src: ./pages/use-cases.md
 ---
 src: ./pages/outro.md
 ---
+---
+src: ./pages/the-end.md
+---
