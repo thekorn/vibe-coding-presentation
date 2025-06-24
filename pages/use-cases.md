@@ -15,6 +15,10 @@ title: use cases
                 <li v-click><b>Armin Ronacher:</b> implement sentry clone in a weekend <a href="https://www.youtube.com/watch?v=oodxg0qatX0" target="_blank">[Video]</a></li>
                 <li v-click><b>ThePrimeagen:</b> build a game in 7 days, using cursor 😩 <a href="https://www.youtube.com/watch?v=5qwucCaHpWY" target="_blank">[Video]</a></li>
                 <li v-click><b>Code review:</b> Get a summary of a PR and ask for feedback</li>
+                <li v-click><b>Parallelize the first 80%</b> <ul>
+                    <li>Create different version of a POC as part of design sprints</li>
+                    <li>Summarize new/open bug reports and issues and preprocess them</li>
+                </ul></li>
             </ul>
         </div>
         <div>
